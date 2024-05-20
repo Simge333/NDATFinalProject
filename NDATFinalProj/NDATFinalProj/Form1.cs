@@ -16,5 +16,10 @@ namespace NDATFinalProj
 		{
 			InitializeComponent();
 		}
+		Message mesaj= new Message();
+		private void Form1_Load(object sender, EventArgs e)
+		{
+			
+		}
 	}
 }
